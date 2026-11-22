@@ -121,7 +121,7 @@ Read [`docs/threat-model.md`](docs/threat-model.md) for details. To report a vul
 
 ## Contributing
 
-Read [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Read [`CONTRIBUTING.md`](CONTRIBUTING.md). To claim an issue or ask a question, join the [PulseEngine Discord](https://discord.gg/VU8RUByEeG).
 
 ## License
 

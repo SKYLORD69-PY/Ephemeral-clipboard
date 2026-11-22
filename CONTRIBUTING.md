@@ -4,6 +4,7 @@ Thank you for your interest. This file tells you how to report problems and send
 
 ## Before you start
 
+- Join the [PulseEngine Discord](https://discord.gg/VU8RUByEeG) to see open issues on the commission board and to ask questions. To claim an issue, comment on it here on GitHub.
 - Read [`docs/project-plan.md`](docs/project-plan.md). It defines the scope.
 - Read [`docs/PROTOCOL.md`](docs/PROTOCOL.md) before you change the client or the relay.
 - Features that are out of scope (GUI, phone client, file transfer, macOS) go in a `v2-ideas` issue. Do not send a pull request for them.
