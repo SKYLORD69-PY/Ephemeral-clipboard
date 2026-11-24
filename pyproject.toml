@@ -9,7 +9,7 @@ description = "Send one secret over an encrypted, one-read relay."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-  "websockets>=12",
+  "websockets>=14",
 ]
 
 [project.optional-dependencies]
